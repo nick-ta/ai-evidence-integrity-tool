@@ -1,4 +1,4 @@
-# ai-evidence-integrity-tool
+# AI Evidence Integrity Tool
 
 Forensic pipeline for detecting tampering in digital evidence — metadata analysis, hash verification, and chain-of-custody logging.
 
